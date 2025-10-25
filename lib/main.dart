@@ -22,16 +22,6 @@ Future main() async {
             measurementId: "G-FREWCBF7Y1"));
   };
 
-// await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
-//   const firebaseConfig = {
-//     'apiKey': "AIzaSyDx24fU-veTw_QttLg5mzgAJiDrYXv1EOM",
-//     'authDomain': "loginapp-87017.firebaseapp.com",
-//     'projectId': "loginapp-87017",
-//     'storageBucket': "loginapp-87017.appspot.com",
-//     'messagingSenderId': "939288879280",
-//     'appId': "1:939288879280:web:939288879280",
-//   };
-
   await Firebase.initializeApp(
     options: const FirebaseOptions(
       apiKey: "AIzaSyDx24fU-veTw_QttLg5mzgAJiDrYXv1EOM",
