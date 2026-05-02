@@ -11,7 +11,7 @@ Live. here-https://aadarshk7.github.io/Login-App_Google_Facebook_Twitter_Login/
 <p> <img src="https://raw.githubusercontent.com/aadarshk7/Login-App_Google_Facebook_Twitter_Login/master/assets/screenshots/googlehomescreen.jpg" height = 444 width=222/> </p>
 <h2> After signin with valid X(twitter) account user will be welcome to the homescreen</h2> 
 <p> <img src="https://raw.githubusercontent.com/aadarshk7/Login-App_Google_Facebook_Twitter_Login/master/assets/screenshots/twitterhomescreen.jpg" height = 444 width=222/> </p>
-<h2> User can logout and the data of user will be saved using shared_preferences flutter package</h2>
+<h2> User can logout and the data of user will be saved using shared_preferences flutter package. </h2>
 <p> <img src="https://raw.githubusercontent.com/aadarshk7/Login-App_Google_Facebook_Twitter_Login/master/assets/screenshots/navscreen.jpg" height = 444 width=222/> </p>
 <!-- <h2> Nodepad </h2>
 <p> <img src="" height = 777 width=444/> </p> -->
